@@ -1,0 +1,17 @@
+{
+  "ResUNet_Att": {
+    "amp_PSNR_dB": 20.895831513735175,
+    "amp_SSIM": 0.887211681475242,
+    "phase_RMSE_rad": 0.9332880387306214
+  },
+  "Fresnel_backprop": {
+    "amp_PSNR_dB": 15.54437812555185,
+    "amp_SSIM": 0.6395976878404618,
+    "phase_RMSE_rad": 1.8026497422854106
+  },
+  "ASM_backprop": {
+    "amp_PSNR_dB": 15.542962274748508,
+    "amp_SSIM": 0.6394498707850774,
+    "phase_RMSE_rad": 1.8026487687428792
+  }
+}
