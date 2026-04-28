@@ -1,7 +1,6 @@
 # Deep Learning-Based Single Hologram Reconstruction
 ### Residual U-Net with Attention Gates (Res-AttU-Net)
 **B.Tech Final Year Project — Electrical Engineering, NIT Delhi**
-Roll No. 231230004
 
 ---
 
